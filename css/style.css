@@ -4,3 +4,17 @@ body
 	color: #c5b99c;
     font-family: 'Quicksand', sans-serif;
 }
+.game
+{
+}
+video
+{
+  margin: auto;
+  max-width: 100%;
+  max-height: 100%;
+  -moz-user-select: none;
+}
+video:focus
+{
+  outline-width: 0;
+}
