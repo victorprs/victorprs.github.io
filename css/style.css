@@ -1,11 +1,37 @@
+html
+{
+  display: table;
+  margin: auto;
+}
 body
 {
-	background-color: #272822;
-	color: #c5b99c;
-    font-family: 'Quicksand', sans-serif;
+  display: table-cell;
+  vertical-align: middle;
+  background-color: #272822;
+  color: #c5b99c;
+  font-family: 'Quicksand', sans-serif;
 }
 .game
 {
+  max-width: 650px;
+}
+.wrapper
+{
+  display:table;
+}
+.contact
+{
+  display:table-cell;
+  vertical-align: middle;
+  max-width:320px;
+  padding: 5px;
+}
+.projetos
+{
+  height: 100vh; /* percent relative to viewport height */
+  max-width: 66%
+  float: left;
+  overflow-y: scroll;
 }
 video
 {
