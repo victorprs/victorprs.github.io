@@ -29,7 +29,6 @@ body
 .projetos
 {
   height: 100vh; /* percent relative to viewport height */
-  max-width: 66%
   float: left;
   overflow-y: scroll;
 }
