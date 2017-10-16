@@ -26,11 +26,14 @@ body
   max-width:320px;
   padding: 5px;
 }
-.projetos
+@media (orientation:landscape)
 {
-  height: 100vh; /* percent relative to viewport height */
-  float: left;
-  overflow-y: scroll;
+  .projetos
+  {
+    height: 100vh; /* percent relative to viewport height */
+    float: left;
+    overflow-y: scroll;
+  }
 }
 video
 {
@@ -55,4 +58,15 @@ video:focus
 ::-webkit-scrollbar-thumb {
     border-radius: 3px;
     background-color: #424337;
+}
+@media (orientation: portrait)
+{
+  .wrapper
+  {
+    display:inline-block;
+  }
+  .projetos
+  {
+    overflow-y: inherit;
+  }
 }
