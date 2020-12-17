@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Victor Peres</title>
+    <link>https://victorprs.github.io/posts/</link>
+    <description>Recent content in Posts on Victor Peres</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 17 Dec 2020 18:50:31 -0300</lastBuildDate><atom:link href="https://victorprs.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://victorprs.github.io/posts/hello-world/</link>
+      <pubDate>Thu, 17 Dec 2020 18:50:31 -0300</pubDate>
+      
+      <guid>https://victorprs.github.io/posts/hello-world/</guid>
+      <description>Olá! Seja bem-vindo ao meu blog. Esse é o primeiro post que eu estou fazendo e espero conseguir manter uma boa regularidade de postagens. Se vai ser semanal, mensal, bienal, não sei ainda. Descubra comigo!
+Tenho ideias e planos de conteúdos técnicos mas não vai ser um blog exclusivamente técnico. Vou postar alguns textos mais direcionados à vida profissional ou acadêmica de vez em quando mas não vai ser nada do tipo &amp;ldquo;como programar em 21 dias&amp;rdquo;, &amp;ldquo;conseguindo emprego dos seus sonhos&amp;rdquo; ou &amp;ldquo;saiba aqui se você devia fazer uma faculdade de computação&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>

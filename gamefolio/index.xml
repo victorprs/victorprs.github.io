@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jogos desenvolvidos on Victor Peres</title>
+    <link>https://victorprs.github.io/gamefolio/</link>
+    <description>Recent content in Jogos desenvolvidos on Victor Peres</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://victorprs.github.io/gamefolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unknown Survivor</title>
+      <link>https://victorprs.github.io/gamefolio/bob_fantastic_asylum-copy-2/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://victorprs.github.io/gamefolio/bob_fantastic_asylum-copy-2/</guid>
+      <description>Jogo em terceira pessoa com elementos de shooters e sobrevivência. Desenvolvido em C# e Unity3D.
+Unknown Survivor é um jogo onde o jogador controla um personagem humano que anda pelo ambiente tentando matar os inimigos que são encontrados em seu caminho. Inicialmente, o personagem não possui memória pois a perdeu em algum momento que não é conhecido. Ele se vê rodeado por lobos que querem atacá-lo. Portanto, é preciso atacar de volta para sobreviver às ondas dos inimigos selvagens.</description>
+    </item>
+    
+    <item>
+      <title>Bob&#39;s Fantastic Asylum</title>
+      <link>https://victorprs.github.io/gamefolio/bob_fantastic_asylum-copy/</link>
+      <pubDate>Fri, 01 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://victorprs.github.io/gamefolio/bob_fantastic_asylum-copy/</guid>
+      <description>Jogo de terror psicológico com elementos de sobrevivência feito em equipe em uma Global Game Jam. Desenvolvido em Unity e C#.
+Bob precisa sobreviver no manicômio em que está internado. Lutando e fugindo de inimigos, ele deve se manter calmo para que os monstros de sua mente não o alcancem.</description>
+    </item>
+    
+    <item>
+      <title>Iceman</title>
+      <link>https://victorprs.github.io/gamefolio/iceman/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://victorprs.github.io/gamefolio/iceman/</guid>
+      <description>Jogo de arcade inspirado por infinity runners como Canabalt e Jetpack Joyride. Desenvolvido em C++ com a biblioteca Allegro.
+O boss mais icônico de Mega Man corre por plataformas e desvia de obstáculos para chegar mais longe, enquanto uma trilha sonora envolvente dita o ritmo da fuga no gelo.</description>
+    </item>
+    
+    <item>
+      <title>Ghost Project</title>
+      <link>https://victorprs.github.io/gamefolio/ghost_project/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://victorprs.github.io/gamefolio/ghost_project/</guid>
+      <description>Jogo de luta multiplayer local desenvolvido em conjunto com o desenvolvedor Vitor Paladini. Desenvolvido em Python usando a biblioteca Pygame.
+No maior estilo um-contra-um, derrote o seu oponente ectoplastmático em uma disputa até que um seja eliminado, atacando com ectoplastma, desviando de minas aéreas e recuperando a vida com kits de cura.</description>
+    </item>
+    
+    <item>
+      <title>Blackboard tetris</title>
+      <link>https://victorprs.github.io/gamefolio/blackboard_tetris/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://victorprs.github.io/gamefolio/blackboard_tetris/</guid>
+      <description>Clone de tetris com estética cartunizada. Desenvolvido em C# utilizando o framework XNA.</description>
+    </item>
+    
+    <item>
+      <title>Star Shooter</title>
+      <link>https://victorprs.github.io/gamefolio/star_shooter/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://victorprs.github.io/gamefolio/star_shooter/</guid>
+      <description>Simples jogo de nave onde os inimigos aparecem de maneira pseudo-aleatória conforme seu progresso. Desenvolvido em C# utilizando o framework XNA.</description>
+    </item>
+    
+  </channel>
+</rss>
