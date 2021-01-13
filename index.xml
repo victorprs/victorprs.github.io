@@ -6,7 +6,21 @@
     <description>Recent content on Victor Peres</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Thu, 17 Dec 2020 18:50:31 -0300</lastBuildDate><atom:link href="https://victorprs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Dec 2020 15:42:06 -0300</lastBuildDate>
+    
+	<atom:link href="https://victorprs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Notas sobre &#34;O Programador Apaixonado&#34;</title>
+      <link>https://victorprs.github.io/posts/notas-sobre-o-programador-apaixonado/</link>
+      <pubDate>Wed, 13 Jan 2021 16:04:10 -0300</pubDate>
+      
+      <guid>https://victorprs.github.io/posts/notas-sobre-o-programador-apaixonado/</guid>
+      <description>Volta e meia acho legal ler algum livro que seja mais sobre o lado não muito falado de ser um programador, a carreira. É bom ler livros técnicos também mas sinto que muitas vezes ou estes ficam datados ou possuem um preço abusivo, mesmo em versões traduzidas.
+Dito isso, tendo terminado de ler &amp;ldquo;O Programador Apaixonado&amp;rdquo; posso dizer que fiquei com sentimentos mistos com o conteúdo do livro. Concordo com muita coisa do que ele diz e discordo de muita coisa do que ele diz.</description>
+    </item>
+    
     <item>
       <title>Hello World</title>
       <link>https://victorprs.github.io/posts/hello-world/</link>
