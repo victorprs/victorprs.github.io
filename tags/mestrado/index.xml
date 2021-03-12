@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>carreira on Victor Peres</title>
-    <link>https://victorprs.github.io/tags/carreira/</link>
-    <description>Recent content in carreira on Victor Peres</description>
+    <title>mestrado on Victor Peres</title>
+    <link>https://victorprs.github.io/tags/mestrado/</link>
+    <description>Recent content in mestrado on Victor Peres</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 12 Mar 2021 15:44:42 -0300</lastBuildDate>
     
-	<atom:link href="https://victorprs.github.io/tags/carreira/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://victorprs.github.io/tags/mestrado/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,16 +18,6 @@
       
       <guid>https://victorprs.github.io/posts/experiencias-inesperadas-de-um-mestrando-um-ano/</guid>
       <description>Assim que eu terminei a graduação em meados dos anos 10 me deram conselhos de engatar logo em uma pós graduação. Na época, como um bom jovem, acabei ignorando completamente esse conselho. Estava mais interessado em procurar outras coisas e me distanciar um pouco do meio acadêmico que passei durante uma boa parte da minha vida adulta. Nesse mês de março de 2021, completei um ano como aluno de pós graduação no programa de mestrado acadêmico de uma universidade federal brasileira.</description>
-    </item>
-    
-    <item>
-      <title>Notas sobre &#34;O Programador Apaixonado&#34;</title>
-      <link>https://victorprs.github.io/posts/notas-sobre-o-programador-apaixonado/</link>
-      <pubDate>Wed, 13 Jan 2021 16:04:10 -0300</pubDate>
-      
-      <guid>https://victorprs.github.io/posts/notas-sobre-o-programador-apaixonado/</guid>
-      <description>Volta e meia acho legal ler algum livro que seja mais sobre o lado não muito falado de ser um programador, a carreira. É bom ler livros técnicos também mas sinto que muitas vezes ou estes ficam datados ou possuem um preço abusivo, mesmo em versões traduzidas.
-Dito isso, tendo terminado de ler &amp;ldquo;O Programador Apaixonado&amp;rdquo; posso dizer que fiquei com sentimentos mistos com o conteúdo do livro. Concordo com muita coisa do que ele diz e discordo de muita coisa do que ele diz.</description>
     </item>
     
   </channel>

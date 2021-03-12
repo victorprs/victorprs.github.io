@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Victor Peres</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Wed, 13 Jan 2021 16:04:10 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 12 Mar 2021 15:44:42 -0300</lastBuildDate>
     
 	<atom:link href="https://victorprs.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>carreira</title>
       <link>https://victorprs.github.io/tags/carreira/</link>
-      <pubDate>Wed, 13 Jan 2021 16:04:10 -0300</pubDate>
+      <pubDate>Fri, 12 Mar 2021 15:44:42 -0300</pubDate>
       
       <guid>https://victorprs.github.io/tags/carreira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mestrado</title>
+      <link>https://victorprs.github.io/tags/mestrado/</link>
+      <pubDate>Fri, 12 Mar 2021 15:44:42 -0300</pubDate>
+      
+      <guid>https://victorprs.github.io/tags/mestrado/</guid>
       <description></description>
     </item>
     
